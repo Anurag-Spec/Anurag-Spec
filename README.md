@@ -20,3 +20,4 @@
 
 #### 📫 How to reach me: 📧 Email: anurag.rathod1@gmail.com Twitter: https://twitter.com/anuragrathod2
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Anurag-spec)
